@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Baeumetools",
+  "version": "1.0",
+
+  "description": "Werkzeuge fuer das Spiel Die Staemme.",
+
+  "icons": {
+    "48": "icons/staemme-48.jpeg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.die-staemme.de/*screen=train"],
+      "js": ["baeume.js"]
+    }
+  ]
+
+}
