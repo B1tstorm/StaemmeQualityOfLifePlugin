@@ -1,2 +1,2 @@
 # StaemmeQualityOfLifePlugin
-Quality of life Plugin fuer das Spiel die-staemme.de
+Quality of life Browserplugin fuer das Spiel die-staemme.de
