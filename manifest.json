@@ -4,7 +4,7 @@
   "name": "Baeumetools",
   "version": "1.0",
 
-  "description": "Werkzeuge fuer das Spiel Die Staemme.",
+  "description": "Quality of life Plugin fuer das Spiel die-staemme.de",
 
   "icons": {
     "48": "icons/staemme-48.jpeg"
